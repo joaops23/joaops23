@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👋 Olá! Me chamo João Pedro! 
+### Bem vindo ao meu perfil do GitHub
 
-<!--
-**joaops23/joaops23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente estou atuando como estagiário de desenvolvimento Web, trabalhando com BackEnd em sistemas ERP.
+🌱 Buscando evoluir como Desenvolvedor estou focando meus estudos na linguagem PHP e buscando sempre novos conceitos para aplicar no dia-a-dia.
+👯 Tenho vontade de colaborar em projetos e ajudar a comunidade.
 
-Here are some ideas to get you started:
+### Ferramentas e tecnologias 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+
+### Estou aprendendo / aprofundando
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+
+### Meus Contatos
+
+<a href="mailto:jp200209@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-8828251ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href=""></a>
