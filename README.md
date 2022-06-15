@@ -1,13 +1,22 @@
-### 👋 Olá! Me chamo João Pedro! 
-### Bem vindo ao meu perfil do GitHub
+## Olá! Me chamo João Pedro! 
+### Bem vindo ao meu perfil
 
-🔭 Atualmente estou atuando como estagiário de desenvolvimento Web, trabalhando com BackEnd em sistemas ERP. </br>
-🌱 Buscando evoluir como Desenvolvedor estou focando meus estudos na linguagem PHP e buscando sempre novos conceitos para aplicar no dia-a-dia. </br>
+🔭 Atuo como desenvolvedor Backend com a stack PHP, principalmente em sistemas Gerenciais ERP. </br>
+🌱 Busco sempre evoluir como Desenvolvedor para ser cada vez mais competente e sempre comprometido com o que me disponhjo a realizar. </br>
 👯 Tenho vontade de colaborar em projetos e ajudar a comunidade. </br>
 
-### Ferramentas e tecnologias 
+## Técnologias 
 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px" height="40px" /> * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" height="40px" /> * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" /> * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40px" height="40px" /> * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40px" height="40px" />
+* PHP
+  > No momento meu foco principal, tentando me aprofuncdar cada vez mais nessa linguagem.
+* HTML5 & CSS3
+  > Como não pode faltar para qualquer desenvolvedor que deseja trabalhar com a Web, possuo conhecimentos nessas duas tecnologias.
+* JavaScript
+  > Ainda não muito aprofundado em JS, pretendo ainda desenvolver alguns projetos com esta linguagem para treinar mais.  
+* MySQL & PostgreSQL
+  > Aprendendo sempre novos meios de trabalhar com estes dois SGBS's.
+* Slim Framework
+  > Micro Framework focado em aplicações REST.
 
 ### Meus Contatos
 
