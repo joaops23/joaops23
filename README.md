@@ -8,11 +8,11 @@
 ## Técnologias 
 
 * PHP
-  > No momento meu foco principal, tentando me aprofuncdar cada vez mais nessa linguagem.
+  > Conhecimento sólido, adquirido com o tempo de estudo e experiência(estágio) 
+* JavaScript
+  > no momento estou me aprofundando um pouco mais pois, uma técnologia tão importante no cenário atual, torna-se quase como um requisito.
 * HTML5 & CSS3
   > Como não pode faltar para qualquer desenvolvedor que deseja trabalhar com a Web, possuo conhecimentos nessas duas tecnologias.
-* JavaScript
-  > Ainda não muito aprofundado em JS, pretendo ainda desenvolver alguns projetos com esta linguagem para treinar mais.  
 * MySQL & PostgreSQL
   > Aprendendo sempre novos meios de trabalhar com estes dois SGBS's.
 * Slim Framework
