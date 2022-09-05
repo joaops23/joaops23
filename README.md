@@ -17,6 +17,10 @@
   > Aprendendo sempre novos meios de trabalhar com estes dois SGBS's.
 * Slim Framework
   > Micro Framework focado em aplicações REST.
+* NodeJs
+  > Runtime JavaScript.
+* Express.js
+  > Framework Javascript bastante usado pela comunidade.
 
 ### Meus Contatos
 
