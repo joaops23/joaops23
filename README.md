@@ -3,14 +3,13 @@
 
 🔭 Atualmente estou atuando com o desenvolvimento de APIs e sistemas baseados em JavaScript(Node), também já atuei como desenvolvedor Backend com a stack PHP, principalmente em sistemas Gerenciais ERP. </br>
 🌱 Busco sempre evoluir como Desenvolvedor para ser cada vez mais competente e sempre comprometido com o que me disponhjo a realizar. </br>
-👯 Tenho vontade de colaborar em projetos e ajudar a comunidade. </br>
 
 ## Técnologias 
 
-* PHP
-  > Conhecimento sólido, adquirido com o tempo de estudo e experiência(estágio) 
 * JavaScript
-  > no momento estou me aprofundando um pouco mais pois, uma técnologia tão importante no cenário atual, torna-se quase como um requisito.
+  > Conhecimento sólido, adquirido através de experiência técnica e acadêmica.
+* PHP
+  > Conhecimento sólido, adquirido com experiência técnica e acadêmica.
 * HTML5 & CSS3
   > Como não pode faltar para qualquer desenvolvedor que deseja trabalhar com a Web, possuo conhecimentos nessas duas tecnologias.
 * MySQL & PostgreSQL
@@ -20,7 +19,9 @@
 * NodeJs
   > Runtime JavaScript.
 * Express.js
-  > Framework Javascript bastante usado pela comunidade.
+  > Framework Javascript utilizado muitas vezes para criação de APIs.
+* Sequelize
+  > ORM em JavaScript feito para manipulação e interação com banco de dados.
 
 ### Meus Contatos
 
