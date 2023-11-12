@@ -1,7 +1,7 @@
 ## Olá! Me chamo João Pedro! 
 ### Bem vindo ao meu perfil
 
-🔭 Atuo como desenvolvedor Backend com a stack PHP, principalmente em sistemas Gerenciais ERP. </br>
+🔭 Atualmente estou atuando com o desenvolvimento de APIs e sistemas baseados em JavaScript(Node), também já atuei como desenvolvedor Backend com a stack PHP, principalmente em sistemas Gerenciais ERP. </br>
 🌱 Busco sempre evoluir como Desenvolvedor para ser cada vez mais competente e sempre comprometido com o que me disponhjo a realizar. </br>
 👯 Tenho vontade de colaborar em projetos e ajudar a comunidade. </br>
 
