@@ -1,27 +1,22 @@
 ## Olá! Me chamo João Pedro! 
-### Bem vindo ao meu perfil
+<p>&nbsp;Atualmente estou trabalhando com desenvolvimento BackEnd NodeJS, dsenvolvendo API's e automações baseadas tanto em NodeJs quanto em Python. Após realizar uma migração de stack pois estava trabalhando com PHP em sistemas legados, tive que me desenvolver na stack NodeJs para o desenvolvimento e agora estou estudando TypeScript, para desenvolver aplicações mais consistentes e seguras.</p>
+<p>&nbsp;Sempre busco me desenvolver e me manter atualizado profissionalmente.<br />&nbsp;Atualmente estou buscando me aprofundar em conceitos de infraestrutura, tentando aumentar minhas habilidades no desenvolvimento de software visando deixar minhas aplicações cada vez mais completas seguindo padrões de boas práticas.</p>
 
-🔭 Atualmente estou atuando com o desenvolvimento de APIs e sistemas baseados em JavaScript(Node), também já atuei como desenvolvedor Backend com a stack PHP, principalmente em sistemas Gerenciais ERP. </br>
-🌱 Busco sempre evoluir como Desenvolvedor para ser cada vez mais competente e sempre comprometido com o que me disponhjo a realizar. </br>
-
-## Técnologias 
+## Tecnologias 
 
 * JavaScript
-  > Conhecimento sólido, adquirido através de experiência técnica e acadêmica.
-* PHP
-  > Conhecimento sólido, adquirido com experiência técnica e acadêmica.
+* TypeScript
 * HTML5 & CSS3
-  > Como não pode faltar para qualquer desenvolvedor que deseja trabalhar com a Web, possuo conhecimentos nessas duas tecnologias.
-* MySQL & PostgreSQL
-  > Aprendendo sempre novos meios de trabalhar com estes dois SGBS's.
-* Slim Framework
-  > Micro Framework focado em aplicações REST.
+* React
 * NodeJs
-  > Runtime JavaScript.
 * Express.js
-  > Framework Javascript utilizado muitas vezes para criação de APIs.
 * Sequelize
-  > ORM em JavaScript feito para manipulação e interação com banco de dados.
+* Knex
+* MySQL & PostgreSQL
+* Docker
+* PHP
+* Slim Framework
+* Linux
 
 ### Meus Contatos
 
